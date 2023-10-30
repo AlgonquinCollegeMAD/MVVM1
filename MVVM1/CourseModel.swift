@@ -6,3 +6,9 @@
 //
 
 import Foundation
+// Model
+struct Post {
+    let id: Int
+    let title: String
+    let description: String
+}
